@@ -1,2 +1,2 @@
 # DayTripper-Gupshup-Bot
-Simple, conversational bot to assist you in planning for a short day trip - built at BASEHacks
+Simple, conversational Gupshup chatbot to assist you in planning for a short day trip.
