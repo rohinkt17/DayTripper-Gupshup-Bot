@@ -16,7 +16,7 @@ function MessageHandler(context, event) {
         }
 
         var destCityName = destCitySub.substring(0, destCityEnd)
-		context.simplehttp.makeGet('http://api.openweathermap.org/data/2.5/forecast/daily?q='
+	context.simplehttp.makeGet('http://api.openweathermap.org/data/2.5/forecast/daily?q='
             + destCityName + '&cnt=1&appid=b68627eccd22e11a0fcad0c80ebbd610')
     }
 }
